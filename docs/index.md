@@ -1,16 +1,3 @@
-# mohri's diary
+## mohri's diary
 
-## test
-
-test
-
-### test
-
-test
-
-test
-
-- test
-- test
-- test
-
+[About GitHub Pages and Jekyll \- User Documentation](https://help.github.com/articles/about-github-pages-and-jekyll/)
